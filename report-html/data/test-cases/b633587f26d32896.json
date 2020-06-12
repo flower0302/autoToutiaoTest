@@ -1,0 +1,89 @@
+{
+  "uid" : "b633587f26d32896",
+  "name" : "test_pub_aritical",
+  "fullName" : "script.mp.test_pub_aritical.TestAritical#test_pub_aritical",
+  "historyId" : "2f24bb3d1d0cac68e0e484179e3c6b64",
+  "time" : {
+    "start" : 1591965679702,
+    "stop" : 1591965688521,
+    "duration" : 8819
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1591965679700,
+      "stop" : 1591965679701,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1591965688525,
+      "stop" : 1591965688525,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_aritical"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAritical"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-393MP153"
+  }, {
+    "name" : "thread",
+    "value" : "796-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.mp.test_pub_aritical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "b633587f26d32896.json",
+  "parameterValues" : [ ]
+}

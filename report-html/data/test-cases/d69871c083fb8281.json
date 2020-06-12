@@ -1,0 +1,59 @@
+{
+  "uid" : "d69871c083fb8281",
+  "name" : "test_end",
+  "fullName" : "script.mis.test_end.TestEnd#test_end",
+  "historyId" : "153ebb16b22c4b75d8e36684e35bd4f6",
+  "time" : {
+    "start" : 1591965746407,
+    "stop" : 1591965748918,
+    "duration" : 2511
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=199)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_end"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEnd"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-393MP153"
+  }, {
+    "name" : "thread",
+    "value" : "796-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.mis.test_end"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=199)" ]
+  },
+  "source" : "d69871c083fb8281.json",
+  "parameterValues" : [ ]
+}
